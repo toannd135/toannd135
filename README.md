@@ -1,6 +1,6 @@
 # Nguyen Duc Toan
 
-> DevOps Engineer focused on Kubernetes, GitOps (ArgoCD) and CI/CD automation.
+> DevOps Engineer focused on Kubernetes, GitOps and CI/CD automation.
 > Building and running cloud-native infrastructure on Linux.
 
 <p>
@@ -26,9 +26,33 @@
 
 <p>
   <a href="https://github.com/toannd135">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&hide_border=true&theme=default&title_color=3d59a1&icon_color=3d59a1&text_color=24292f&bg_color=ffffff" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&hide_border=true&theme=default&title_color=3d59a1&icon_color=3d59a1&text_color=24292f&bg_color=ffffff" alt="GitHub stats" />
+  </picture>
   </a>
   <a href="https://github.com/toannd135">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&hide_border=true&theme=default&title_color=3d59a1&icon_color=3d59a1&text_color=24292f&bg_color=ffffff" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&hide_border=true&theme=default&title_color=3d59a1&icon_color=3d59a1&text_color=24292f&bg_color=ffffff" alt="Top languages" />
+  </picture>
   </a>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toannd135&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toannd135&hide_border=true&theme=default&background=ffffff&ring=3d59a1&fire=3d59a1&currStreakNum=24292f&sideNums=24292f&currStreakLabel=3d59a1&sideLabels=3d59a1&dates=57606a" />
+    <img height="160" src="https://streak-stats.demolab.com?user=toannd135&hide_border=true&theme=default&background=ffffff&ring=3d59a1&fire=3d59a1&currStreakNum=24292f&sideNums=24292f&currStreakLabel=3d59a1&sideLabels=3d59a1&dates=57606a" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&theme=tokyo-night" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&bg_color=ffffff&color=3d59a1&line=3d59a1&point_color=24292f&area_color=3d59a1&title_color=3d59a1&radius=6" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&bg_color=ffffff&color=3d59a1&line=3d59a1&point_color=24292f&area_color=3d59a1&title_color=3d59a1&radius=6" alt="Contribution activity graph" />
+  </picture>
 </p>
