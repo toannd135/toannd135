@@ -49,10 +49,4 @@
   </picture>
 </p>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&theme=tokyo-night" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&bg_color=ffffff&color=3d59a1&line=3d59a1&point_color=24292f&area_color=3d59a1&title_color=3d59a1&radius=6" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=toannd135&hide_border=true&area=true&bg_color=ffffff&color=3d59a1&line=3d59a1&point_color=24292f&area_color=3d59a1&title_color=3d59a1&radius=6" alt="Contribution activity graph" />
-  </picture>
-</p>
+
