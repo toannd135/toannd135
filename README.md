@@ -9,25 +9,31 @@
 ### 🛠️ Tech Stack & Tools
 
 #### ☁️ DevOps, Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1941?style=for-the-badge&logo=openstack&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<p left>
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/openstack/openstack-original.svg" title="OpenStack" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/ansible/ansible-original.svg" title="Ansible" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" width="50" height="50"/>
+</p>
 
 #### 📊 Observability & System
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p left>
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
+</p>
 
 #### 💻 Languages & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p left>
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/bash/bash-original.svg" title="Bash" width="50" height="50"/>
+</p>
 
 ---
 
