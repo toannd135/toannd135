@@ -1,4 +1,4 @@
-<h1 align="center">Nguyễn Đức Toàn</h1>
+<h1 align="center">Nguyen Duc Toan</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 <p align="center">
