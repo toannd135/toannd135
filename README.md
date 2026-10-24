@@ -1,11 +1,8 @@
 # Hi there, I'm Nguyen Duc Toan 👋
-### DevOps & Cloud Infrastructure Engineer | Student @ PTIT
+### DevOps Engineer
 
 - 🔭 **Current Focus:** Kubernetes, GitOps (ArgoCD), CI/CD Automation & Cloud Native Infrastructure
-- 🛠️ **Tech Stack:** Docker, Kubernetes, Ansible, Jenkins, GitLab CI, HashiCorp Vault, Prometheus, Grafana
-- 📜 **Certifications:** Samsung x PTIT Application Algorithm Certification (2024)
-- 📬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nguyenductoan-ptit) | [Email](mailto:toannd.ptit@gmail.com)
-
+- 🛠️ **Tech Stack:** Docker, Kubernetes, Ansible, Jenkins, GitLab CI, Prometheus, Grafana
 ---
 
 ### 🛠️ Tech Stack & Tools
