@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=toannd135%40infra%3A~%24&fontSize=34&fontColor=3fb950&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="toannd135@infra" width="100%" />
 
-<h2 align="center">Nguyen Duc Toan · DevOps Engineer</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3FB950&background=0D111700&center=true&vCenter=true&width=560&lines=%24+kubectl+get+pods+-A;%24+argocd+app+sync+--all;%24+terraform+apply+-auto-approve;%24+systemctl+status+infrastructure+%E2%9C%94" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=3FB950&background=0D111700&center=true&vCenter=true&width=560&lines=%24+kubectl+get+pods+-A;%24+argocd+app+sync+--all;%24+terraform+apply+-auto-approve;%24+systemctl+status+infrastructure+%E2%9C%94" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=1A7F37&background=FFFFFF00&center=true&vCenter=true&width=560&lines=%24+kubectl+get+pods+-A;%24+argocd+app+sync+--all;%24+terraform+apply+-auto-approve;%24+systemctl+status+infrastructure+%E2%9C%94" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=1A7F37&background=FFFFFF00&center=true&vCenter=true&width=560&lines=%24+kubectl+get+pods+-A;%24+argocd+app+sync+--all;%24+terraform+apply+-auto-approve;%24+systemctl+status+infrastructure+%E2%9C%94" alt="" />
+  </picture>
 </p>
 
 ```console
@@ -37,10 +39,18 @@ focus     : Kubernetes, GitOps, CI/CD automation, cloud-native infrastructure
 ## `$ ./stats.sh`
 
 <a href="https://github.com/toannd135">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=3fb950" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&theme=default&hide_border=true&title_color=1a7f37&icon_color=1a7f37" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=toannd135&show_icons=true&theme=default&hide_border=true&title_color=1a7f37&icon_color=1a7f37" alt="GitHub stats" />
+  </picture>
 </a>
 <a href="https://github.com/toannd135">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&theme=default&hide_border=true&title_color=1a7f37" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannd135&layout=compact&theme=default&hide_border=true&title_color=1a7f37" alt="Top languages" />
+  </picture>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer&text=exit%200&fontSize=18&fontColor=3fb950" alt="" width="100%" />
