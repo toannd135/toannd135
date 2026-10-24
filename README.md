@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=toannd135%40infra%3A~%24&fontSize=34&fontColor=3fb950&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="toannd135@infra" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=toannd135%40infra%3A~%24&fontSize=34&fontColor=3fb950&fontAlign=50&fontAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,100:eaeef2&height=120&section=header&text=toannd135%40infra%3A~%24&fontSize=34&fontColor=1a7f37&fontAlign=50&fontAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,100:eaeef2&height=120&section=header&text=toannd135%40infra%3A~%24&fontSize=34&fontColor=1a7f37&fontAlign=50&fontAlignY=55&animation=fadeIn" alt="toannd135@infra" width="100%" />
+</picture>
+
+<h2 align="center">Nguyen Duc Toan · DevOps Engineer</h2>
 
 <p align="center">
   <picture>
@@ -53,4 +59,8 @@ focus     : Kubernetes, GitOps, CI/CD automation, cloud-native infrastructure
   </picture>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer&text=exit%200&fontSize=18&fontColor=3fb950" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer&text=exit%200&fontSize=18&fontColor=3fb950" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:eaeef2,100:f6f8fa&height=60&section=footer&text=exit%200&fontSize=18&fontColor=1a7f37" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eaeef2,100:f6f8fa&height=60&section=footer&text=exit%200&fontSize=18&fontColor=1a7f37" alt="" width="100%" />
+</picture>
