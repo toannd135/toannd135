@@ -1,8 +1,5 @@
 # Nguyen Duc Toan
 
-> DevOps Engineer focused on Kubernetes, GitOps and CI/CD automation.
-> Building and running cloud-native infrastructure on Linux.
-
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
